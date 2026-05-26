@@ -10,11 +10,9 @@ I enjoy building user-friendly applications, working with databases, and solving
 ## 🚀 Skills & Interests
 💻 Programming Languages: Python, C, Java  
 📚 Web Technologies: HTML, CSS, JavaScript  
-🗄️ Databases: MySQL, MongoDB  
-🧩 Core Concepts: Data Structures, Problem Solving  
-🛠️ Tools: Git/GitHub, VS Code, Microsoft Office  
-🎓 Academic Background: B.Sc Computer Science (90%)  
-🏆 Achievements: Secured first place in academics, scored 94 percent in SSC and 92 percent in Intermediate  
+🗄️ Databases: MySQL, MongoDB   
+🛠️ Tools: Microsoft Office  
+🎓 Academic Background: B.Sc Computer Science (90%)   
 🎯 Interests: Full-Stack Development, Problem-Solving, Real-World Projects, Learning New Technologies  
 
 ---
