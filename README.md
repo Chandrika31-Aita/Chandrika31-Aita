@@ -33,12 +33,6 @@ A responsive website to showcase my projects, skills, and contact details.
 Designed with a clean and user-friendly interface.  
 🔗 [Project Link](https://github.com/Chandrika31-Aita/portfolio)  
 
----
-
-## 📜 Certifications
-✔ Microsoft Office Certification  
-✔ Internship – Kidzshop E-Commerce Project (July 2024)  
-✔ Internship – DreamHome Real Estate Project (Nov 2024)  
 
 ---
 
